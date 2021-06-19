@@ -164,6 +164,12 @@
 
 
 
+# 北京航空航天大学
+
+【报名截止: 2021.7.1】[北京航空航天大学计算机学院2021年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/7741.htm)
+
+
+
 # 北京邮电大学
 
 【报名截止: 2021.6.25】[北京邮电大学2021年全国优秀大学生暑期夏令营](https://mp.weixin.qq.com/s?__biz=MzA5MTY3MzAxOQ==&mid=2650677395&idx=1&sn=deeded9f0f69ff45fa39a7e9c6c6fd4d&chksm=88725847bf05d15161a1696144f377a1036cf14dc833f46834baa3d9441a6998ca215c0845ec&mpshare=1&scene=23&srcid=0610ALULMz4e3hGZ1PX9pVp6&sharer_sharetime=1623293763624&sharer_shareid=71caa6e1b89a22e91fd84f8f9f6d7fbb#rd)
